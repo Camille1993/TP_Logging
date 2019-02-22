@@ -1,0 +1,78 @@
+10:33:26.921 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:33:26.921 [main] INFO  dev.console.App -
+Implémentation Logback
+10:33:26.921 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = valeur 1
+10:34:21.555 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:34:21.570 [main] INFO  dev.console.App -
+Implémentation Logback
+10:34:21.570 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World
+10:35:10.641 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:35:10.641 [main] INFO  dev.console.App -
+Implémentation Logback
+10:37:39.679 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:37:39.695 [main] INFO  dev.console.App -
+Implémentation Logback
+10:37:39.695 [main] INFO  dev.service.AppService -
+Traitement 1 : param = Hello World
+10:38:40.194 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:38:40.194 [main] INFO  dev.console.App -
+Implémentation Logback
+10:38:40.194 [main] INFO  dev.service.AppService -
+Traitement 1 : param = Hello World
+10:38:46.092 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:38:46.092 [main] INFO  dev.console.App -
+Implémentation Logback
+10:38:46.108 [main] INFO  dev.service.AppService -
+Traitement 1 : param = Hello World
+10:39:08.791 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:39:08.807 [main] INFO  dev.console.App -
+Implémentation Logback
+10:39:08.807 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World
+10:39:21.412 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:39:21.428 [main] INFO  dev.console.App -
+Implémentation Logback
+10:39:21.428 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World
+10:40:03.481 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:40:03.481 [main] INFO  dev.console.App -
+Implémentation Logback
+10:40:03.481 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World
+10:41:01.527 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:41:01.527 [main] INFO  dev.console.App -
+Implémentation Logback
+10:41:01.527 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = valeur 1
+10:43:33.099 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:43:33.099 [main] INFO  dev.console.App -
+Implémentation Logback
+10:43:33.099 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = valeur 1
+10:43:53.625 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+10:43:53.625 [main] INFO  dev.console.App -
+Implémentation Logback
+10:43:53.640 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World !
+11:02:08.963 [main] INFO  dev.console.App -
+Bonjour Slf4J !
+11:02:08.963 [main] INFO  dev.console.App -
+Implémentation Logback
+11:02:08.963 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World !
+11:02:47.962 [main] DEBUG dev.service.AppService -
+Traitement 1 : param = Hello World !
