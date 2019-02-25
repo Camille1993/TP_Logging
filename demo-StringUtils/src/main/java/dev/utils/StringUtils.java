@@ -1,4 +1,4 @@
-package dev.demo_StringUtils;
+package dev.utils;
 
 
 

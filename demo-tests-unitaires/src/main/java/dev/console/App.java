@@ -5,9 +5,13 @@ import dev.service.CalculService;
 
 import java.util.Scanner;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 
 public class App {
 	
+private static final Logger LOG = LoggerFactory.getLogger(App.class);	
 	private Scanner scanner;
 	private CalculService calculatrice;
 	
@@ -18,6 +22,7 @@ public class App {
 	}
 	
 	protected void afficherTitre() {
+		LOG.info("**** Application Calculatrice ****");
 	}
 	
 	public void demarrer() {
